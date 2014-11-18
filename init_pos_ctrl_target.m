@@ -3,15 +3,11 @@ clear all
 %simulation
 basic_time_step=0.002;
 
-
-
 %gravity
 g=9.81;
 
-
 %mass of the QC
 m0=1.3;
-
 
 %ATTITUDE CONTROLLER
 
